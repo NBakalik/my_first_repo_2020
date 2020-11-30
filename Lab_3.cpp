@@ -22,5 +22,6 @@ int main()
 {		
 	char b[] = "XooX";
 	printf("%d",func(b));	
+	printf("%d", 1);
 }
 
